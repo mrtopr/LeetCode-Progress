@@ -1,0 +1,29 @@
+{
+  "id": 204,
+  "title": "Count Primes",
+  "titleSlug": "count-primes",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Enumeration",
+    "Number Theory"
+  ],
+  "acRate": 36.315443190003265,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "182 ms",
+      "memory": "12.6 MB",
+      "submissionTime": "2025-03-18T14:41:09.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "713 ms",
+      "memory": "12.8 MB",
+      "submissionTime": "2025-03-18T15:15:23.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

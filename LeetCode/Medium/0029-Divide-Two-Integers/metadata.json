@@ -1,0 +1,20 @@
+{
+  "id": 29,
+  "title": "Divide Two Integers",
+  "titleSlug": "divide-two-integers",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "acRate": 20.163948426793382,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.6 MB",
+      "submissionTime": "2025-05-11T18:04:51.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

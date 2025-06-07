@@ -1,0 +1,20 @@
+{
+  "id": 50,
+  "title": "Pow(x, n)",
+  "titleSlug": "powx-n",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Recursion"
+  ],
+  "acRate": 39.06917279729292,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.6 MB",
+      "submissionTime": "2025-05-06T15:40:10.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

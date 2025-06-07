@@ -1,0 +1,17 @@
+{
+  "id": 2809,
+  "title": "Create Hello World Function",
+  "titleSlug": "create-hello-world-function",
+  "difficulty": "Easy",
+  "topics": [],
+  "acRate": 81.91411980700273,
+  "submissions": [
+    {
+      "language": "javascript",
+      "runtime": "37 ms",
+      "memory": "52.8 MB",
+      "submissionTime": "2025-04-21T18:59:30.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

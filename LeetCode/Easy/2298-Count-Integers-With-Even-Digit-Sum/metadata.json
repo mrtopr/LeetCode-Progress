@@ -1,0 +1,20 @@
+{
+  "id": 2298,
+  "title": "Count Integers With Even Digit Sum",
+  "titleSlug": "count-integers-with-even-digit-sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Simulation"
+  ],
+  "acRate": 70.71792048765424,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "7.7 MB",
+      "submissionTime": "2025-05-24T20:06:30.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 70,
+  "title": "Climbing Stairs",
+  "titleSlug": "climbing-stairs",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "acRate": 54.24288763302538,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "7.8 MB",
+      "submissionTime": "2025-05-11T17:53:07.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

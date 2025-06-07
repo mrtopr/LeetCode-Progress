@@ -1,0 +1,32 @@
+{
+  "id": 493,
+  "title": "Reverse Pairs",
+  "titleSlug": "reverse-pairs",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Merge Sort",
+    "Ordered Set"
+  ],
+  "acRate": 34.84633698555254,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "192 ms",
+      "memory": "112.7 MB",
+      "submissionTime": "2025-06-07T19:29:36.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "222 ms",
+      "memory": "112.8 MB",
+      "submissionTime": "2025-06-07T19:29:45.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

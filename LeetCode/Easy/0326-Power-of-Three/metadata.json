@@ -1,0 +1,20 @@
+{
+  "id": 326,
+  "title": "Power of Three",
+  "titleSlug": "power-of-three",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Recursion"
+  ],
+  "acRate": 51.38256171959633,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "8 ms",
+      "memory": "8.9 MB",
+      "submissionTime": "2025-05-30T19:04:29.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

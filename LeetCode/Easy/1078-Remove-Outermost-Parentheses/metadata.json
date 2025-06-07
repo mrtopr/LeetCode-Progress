@@ -1,0 +1,20 @@
+{
+  "id": 1078,
+  "title": "Remove Outermost Parentheses",
+  "titleSlug": "remove-outermost-parentheses",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "acRate": 87.33802994087306,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.9 MB",
+      "submissionTime": "2025-06-03T19:59:57.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

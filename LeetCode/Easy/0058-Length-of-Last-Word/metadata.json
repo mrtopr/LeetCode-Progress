@@ -1,0 +1,19 @@
+{
+  "id": 58,
+  "title": "Length of Last Word",
+  "titleSlug": "length-of-last-word",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "acRate": 59.372839398250065,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.9 MB",
+      "submissionTime": "2025-04-27T08:09:40.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 560,
+  "title": "Subarray Sum Equals K",
+  "titleSlug": "subarray-sum-equals-k",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "acRate": 47.84819205825463,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "2740 ms",
+      "memory": "34.3 MB",
+      "submissionTime": "2025-06-06T18:05:57.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

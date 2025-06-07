@@ -1,0 +1,20 @@
+{
+  "id": 367,
+  "title": "Valid Perfect Square",
+  "titleSlug": "valid-perfect-square",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Binary Search"
+  ],
+  "acRate": 45.14514002413768,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "2438 ms",
+      "memory": "7.8 MB",
+      "submissionTime": "2025-04-26T05:38:39.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

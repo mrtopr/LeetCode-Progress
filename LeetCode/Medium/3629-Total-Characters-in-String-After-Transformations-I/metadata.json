@@ -1,0 +1,23 @@
+{
+  "id": 3629,
+  "title": "Total Characters in String After Transformations I",
+  "titleSlug": "total-characters-in-string-after-transformations-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String",
+    "Dynamic Programming",
+    "Counting"
+  ],
+  "acRate": 45.646202179026865,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "523 ms",
+      "memory": "639.8 MB",
+      "submissionTime": "2025-06-07T19:33:12.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

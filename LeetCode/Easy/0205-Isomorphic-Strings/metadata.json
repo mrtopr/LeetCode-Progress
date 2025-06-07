@@ -1,0 +1,20 @@
+{
+  "id": 205,
+  "title": "Isomorphic Strings",
+  "titleSlug": "isomorphic-strings",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "acRate": 48.809819533649446,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "9.2 MB",
+      "submissionTime": "2025-06-05T20:11:17.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

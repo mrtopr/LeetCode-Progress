@@ -1,0 +1,21 @@
+{
+  "id": 88,
+  "title": "Merge Sorted Array",
+  "titleSlug": "merge-sorted-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "acRate": 55.38416660461781,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "12.2 MB",
+      "submissionTime": "2025-04-17T19:20:08.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

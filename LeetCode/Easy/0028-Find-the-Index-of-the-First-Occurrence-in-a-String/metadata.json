@@ -1,0 +1,21 @@
+{
+  "id": 28,
+  "title": "Find the Index of the First Occurrence in a String",
+  "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "String Matching"
+  ],
+  "acRate": 47.06584695917886,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.7 MB",
+      "submissionTime": "2025-04-28T21:16:52.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

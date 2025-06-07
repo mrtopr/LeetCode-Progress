@@ -1,0 +1,31 @@
+{
+  "id": 268,
+  "title": "Missing Number",
+  "titleSlug": "missing-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "acRate": 72.41780187610684,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "5 ms",
+      "memory": "21.9 MB",
+      "submissionTime": "2025-04-15T19:34:17.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "21.8 MB",
+      "submissionTime": "2025-06-01T17:58:02.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

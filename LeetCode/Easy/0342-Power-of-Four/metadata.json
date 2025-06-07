@@ -1,0 +1,21 @@
+{
+  "id": 342,
+  "title": "Power of Four",
+  "titleSlug": "power-of-four",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "acRate": 52.38002172248405,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "7.9 MB",
+      "submissionTime": "2025-05-24T19:59:16.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

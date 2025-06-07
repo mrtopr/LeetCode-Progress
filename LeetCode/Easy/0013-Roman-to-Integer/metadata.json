@@ -1,0 +1,21 @@
+{
+  "id": 13,
+  "title": "Roman to Integer",
+  "titleSlug": "roman-to-integer",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
+  "acRate": 66.96075869090834,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "4 ms",
+      "memory": "10.1 MB",
+      "submissionTime": "2025-04-19T03:45:43.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

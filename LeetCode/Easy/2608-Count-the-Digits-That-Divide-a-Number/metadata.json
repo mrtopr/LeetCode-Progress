@@ -1,0 +1,19 @@
+{
+  "id": 2608,
+  "title": "Count the Digits That Divide a Number",
+  "titleSlug": "count-the-digits-that-divide-a-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "acRate": 86.02752737120878,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "7.8 MB",
+      "submissionTime": "2025-05-24T20:13:34.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

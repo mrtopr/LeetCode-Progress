@@ -1,0 +1,20 @@
+{
+  "id": 319,
+  "title": "Bulb Switcher",
+  "titleSlug": "bulb-switcher",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Brainteaser"
+  ],
+  "acRate": 56.216468966875034,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "7.9 MB",
+      "submissionTime": "2025-05-30T19:23:35.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1890,
+  "title": "Sum of Beauty of All Substrings",
+  "titleSlug": "sum-of-beauty-of-all-substrings",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "acRate": 74.53289764196768,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "100 ms",
+      "memory": "11.2 MB",
+      "submissionTime": "2025-06-06T17:53:46.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

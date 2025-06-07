@@ -1,0 +1,21 @@
+{
+  "id": 2021,
+  "title": "Remove All Occurrences of a Substring",
+  "titleSlug": "remove-all-occurrences-of-a-substring",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Simulation"
+  ],
+  "acRate": 78.61753575419519,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "9.4 MB",
+      "submissionTime": "2025-01-29T19:02:41.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

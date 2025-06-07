@@ -1,0 +1,19 @@
+{
+  "id": 2383,
+  "title": "Add Two Integers",
+  "titleSlug": "add-two-integers",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "acRate": 88.0837699880643,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.1 MB",
+      "submissionTime": "2025-05-24T20:07:54.000Z",
+      "status": "Accepted"
+    }
+  ]
+}
