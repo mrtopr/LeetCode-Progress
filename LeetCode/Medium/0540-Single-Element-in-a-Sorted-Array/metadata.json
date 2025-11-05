@@ -1,0 +1,20 @@
+{
+  "id": 540,
+  "title": "Single Element in a Sorted Array",
+  "titleSlug": "single-element-in-a-sorted-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "acRate": 59.37022433122955,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "26.1 MB",
+      "submissionTime": "2025-10-26T19:50:40.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

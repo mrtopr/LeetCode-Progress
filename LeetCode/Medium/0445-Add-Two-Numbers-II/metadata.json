@@ -1,0 +1,21 @@
+{
+  "id": 445,
+  "title": "Add Two Numbers II",
+  "titleSlug": "add-two-numbers-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Math",
+    "Stack"
+  ],
+  "acRate": 62.88010739262055,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "4 ms",
+      "memory": "76.8 MB",
+      "submissionTime": "2025-06-13T18:56:44.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

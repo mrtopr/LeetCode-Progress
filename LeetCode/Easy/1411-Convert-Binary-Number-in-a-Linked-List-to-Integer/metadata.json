@@ -1,0 +1,20 @@
+{
+  "id": 1411,
+  "title": "Convert Binary Number in a Linked List to Integer",
+  "titleSlug": "convert-binary-number-in-a-linked-list-to-integer",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Math"
+  ],
+  "acRate": 82.38506087536078,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "10.6 MB",
+      "submissionTime": "2025-06-13T17:18:39.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

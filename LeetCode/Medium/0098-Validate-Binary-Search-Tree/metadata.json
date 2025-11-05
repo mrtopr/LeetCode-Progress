@@ -1,0 +1,22 @@
+{
+  "id": 98,
+  "title": "Validate Binary Search Tree",
+  "titleSlug": "validate-binary-search-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "acRate": 36.11722742462307,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "21.8 MB",
+      "submissionTime": "2025-06-24T17:39:55.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

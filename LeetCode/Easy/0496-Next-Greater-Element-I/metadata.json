@@ -1,0 +1,22 @@
+{
+  "id": 496,
+  "title": "Next Greater Element I",
+  "titleSlug": "next-greater-element-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "acRate": 76.58545945117825,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "3 ms",
+      "memory": "12.3 MB",
+      "submissionTime": "2025-06-17T17:03:47.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

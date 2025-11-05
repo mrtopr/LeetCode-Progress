@@ -1,0 +1,21 @@
+{
+  "id": 503,
+  "title": "Next Greater Element II",
+  "titleSlug": "next-greater-element-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "acRate": 68.85682929137825,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "119 ms",
+      "memory": "27.8 MB",
+      "submissionTime": "2025-06-18T19:45:04.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

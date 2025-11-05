@@ -1,0 +1,40 @@
+{
+  "id": 7,
+  "title": "Reverse Integer",
+  "titleSlug": "reverse-integer",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "acRate": 32.2645582756417,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.6 MB",
+      "submissionTime": "2025-04-21T19:01:56.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "5 ms",
+      "memory": "8.7 MB",
+      "submissionTime": "2025-09-06T21:35:11.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "5 ms",
+      "memory": "8.5 MB",
+      "submissionTime": "2025-10-26T19:06:13.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.6 MB",
+      "submissionTime": "2025-10-26T19:08:29.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

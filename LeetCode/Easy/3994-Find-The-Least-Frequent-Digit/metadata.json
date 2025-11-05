@@ -1,0 +1,22 @@
+{
+  "id": 3994,
+  "title": "Find The Least Frequent Digit",
+  "titleSlug": "find-the-least-frequent-digit",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "acRate": 69.75173989820297,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.5 MB",
+      "submissionTime": "2025-08-30T15:34:56.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

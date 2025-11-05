@@ -1,0 +1,23 @@
+{
+  "id": 42,
+  "title": "Trapping Rain Water",
+  "titleSlug": "trapping-rain-water",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "acRate": 67.89654971207105,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "25.8 MB",
+      "submissionTime": "2025-06-19T18:37:55.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

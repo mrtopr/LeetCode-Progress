@@ -1,0 +1,19 @@
+{
+  "id": 92,
+  "title": "Reverse Linked List II",
+  "titleSlug": "reverse-linked-list-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List"
+  ],
+  "acRate": 52.01948062732995,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11 MB",
+      "submissionTime": "2025-11-03T20:07:40.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

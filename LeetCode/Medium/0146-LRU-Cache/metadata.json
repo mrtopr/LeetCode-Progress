@@ -1,0 +1,22 @@
+{
+  "id": 146,
+  "title": "LRU Cache",
+  "titleSlug": "lru-cache",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List"
+  ],
+  "acRate": 47.76152002112043,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "119 ms",
+      "memory": "186.8 MB",
+      "submissionTime": "2025-06-21T05:48:43.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

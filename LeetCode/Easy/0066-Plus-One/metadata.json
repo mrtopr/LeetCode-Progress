@@ -1,0 +1,27 @@
+{
+  "id": 66,
+  "title": "Plus One",
+  "titleSlug": "plus-one",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "acRate": 50.34686362692563,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "2 ms",
+      "memory": "11.4 MB",
+      "submissionTime": "2025-04-30T18:06:38.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.6 MB",
+      "submissionTime": "2025-11-04T20:45:49.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

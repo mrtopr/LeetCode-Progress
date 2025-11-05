@@ -1,0 +1,22 @@
+{
+  "id": 943,
+  "title": "Sum of Subarray Minimums",
+  "titleSlug": "sum-of-subarray-minimums",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "acRate": 38.8978557907195,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "11 ms",
+      "memory": "43.5 MB",
+      "submissionTime": "2025-06-18T20:00:14.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

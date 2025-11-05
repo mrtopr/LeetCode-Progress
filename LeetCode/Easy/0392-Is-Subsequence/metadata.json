@@ -1,0 +1,21 @@
+{
+  "id": 392,
+  "title": "Is Subsequence",
+  "titleSlug": "is-subsequence",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
+  "acRate": 49.26812815803704,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.7 MB",
+      "submissionTime": "2025-11-04T19:55:54.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

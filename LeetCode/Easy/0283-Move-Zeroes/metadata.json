@@ -1,0 +1,27 @@
+{
+  "id": 283,
+  "title": "Move Zeroes",
+  "titleSlug": "move-zeroes",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "acRate": 64.1813486279605,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "23.9 MB",
+      "submissionTime": "2025-04-15T20:17:40.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "23.8 MB",
+      "submissionTime": "2025-11-02T18:44:57.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

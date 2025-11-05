@@ -1,0 +1,22 @@
+{
+  "id": 230,
+  "title": "Kth Smallest Element in a BST",
+  "titleSlug": "kth-smallest-element-in-a-bst",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "acRate": 77.14392187358642,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "24.4 MB",
+      "submissionTime": "2025-06-24T17:39:37.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

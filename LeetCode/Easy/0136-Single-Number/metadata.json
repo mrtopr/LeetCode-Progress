@@ -1,0 +1,34 @@
+{
+  "id": 136,
+  "title": "Single Number",
+  "titleSlug": "single-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "acRate": 78.0607917623784,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "7 ms",
+      "memory": "20.6 MB",
+      "submissionTime": "2025-11-02T18:57:47.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "6 ms",
+      "memory": "20.7 MB",
+      "submissionTime": "2025-11-04T20:14:57.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "20.6 MB",
+      "submissionTime": "2025-11-04T20:18:34.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

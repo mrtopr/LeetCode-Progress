@@ -1,0 +1,20 @@
+{
+  "id": 162,
+  "title": "Find Peak Element",
+  "titleSlug": "find-peak-element",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "acRate": 47.097368696171884,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "12.4 MB",
+      "submissionTime": "2025-10-26T19:56:27.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

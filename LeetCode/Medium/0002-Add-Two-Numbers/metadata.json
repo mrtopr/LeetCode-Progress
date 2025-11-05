@@ -1,0 +1,28 @@
+{
+  "id": 2,
+  "title": "Add Two Numbers",
+  "titleSlug": "add-two-numbers",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Math",
+    "Recursion"
+  ],
+  "acRate": 48.99781204135639,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "4 ms",
+      "memory": "77 MB",
+      "submissionTime": "2025-05-04T17:20:04.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "77.2 MB",
+      "submissionTime": "2025-06-12T16:12:24.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

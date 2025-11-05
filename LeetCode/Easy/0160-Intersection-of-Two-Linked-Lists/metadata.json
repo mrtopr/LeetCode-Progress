@@ -1,0 +1,21 @@
+{
+  "id": 160,
+  "title": "Intersection of Two Linked Lists",
+  "titleSlug": "intersection-of-two-linked-lists",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ],
+  "acRate": 64.32092531109326,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "558 ms",
+      "memory": "18.5 MB",
+      "submissionTime": "2025-06-10T20:02:51.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

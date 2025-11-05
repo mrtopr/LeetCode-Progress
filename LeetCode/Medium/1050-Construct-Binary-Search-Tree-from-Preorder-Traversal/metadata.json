@@ -1,0 +1,24 @@
+{
+  "id": 1050,
+  "title": "Construct Binary Search Tree from Preorder Traversal",
+  "titleSlug": "construct-binary-search-tree-from-preorder-traversal",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Tree",
+    "Binary Search Tree",
+    "Monotonic Stack",
+    "Binary Tree"
+  ],
+  "acRate": 84.48586460316486,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "16.2 MB",
+      "submissionTime": "2025-06-25T10:07:20.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

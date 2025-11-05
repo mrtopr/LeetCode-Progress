@@ -1,0 +1,22 @@
+{
+  "id": 199,
+  "title": "Binary Tree Right Side View",
+  "titleSlug": "binary-tree-right-side-view",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "acRate": 70.8365578212504,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "15 MB",
+      "submissionTime": "2025-06-23T11:13:18.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

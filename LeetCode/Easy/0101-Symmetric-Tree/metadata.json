@@ -1,0 +1,22 @@
+{
+  "id": 101,
+  "title": "Symmetric Tree",
+  "titleSlug": "symmetric-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "acRate": 61.70492731081742,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "18.5 MB",
+      "submissionTime": "2025-06-23T11:12:38.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

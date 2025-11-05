@@ -1,0 +1,25 @@
+{
+  "id": 653,
+  "title": "Two Sum IV - Input is a BST",
+  "titleSlug": "two-sum-iv-input-is-a-bst",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "acRate": 63.55642651772791,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "1 ms",
+      "memory": "37.9 MB",
+      "submissionTime": "2025-06-23T11:12:00.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

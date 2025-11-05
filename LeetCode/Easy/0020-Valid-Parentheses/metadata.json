@@ -1,0 +1,27 @@
+{
+  "id": 20,
+  "title": "Valid Parentheses",
+  "titleSlug": "valid-parentheses",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "acRate": 44.61251358302416,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.8 MB",
+      "submissionTime": "2025-04-23T13:41:02.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.6 MB",
+      "submissionTime": "2025-06-16T16:47:26.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

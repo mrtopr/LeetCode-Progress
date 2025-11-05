@@ -1,0 +1,26 @@
+{
+  "id": 237,
+  "title": "Delete Node in a Linked List",
+  "titleSlug": "delete-node-in-a-linked-list",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List"
+  ],
+  "acRate": 84.21297335620008,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "7 ms",
+      "memory": "12.5 MB",
+      "submissionTime": "2025-06-15T03:32:57.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "3 ms",
+      "memory": "12.4 MB",
+      "submissionTime": "2025-10-17T18:31:18.000Z",
+      "status": "Accepted"
+    }
+  ]
+}
