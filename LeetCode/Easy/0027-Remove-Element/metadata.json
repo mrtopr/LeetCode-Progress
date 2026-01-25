@@ -1,0 +1,27 @@
+{
+  "id": 27,
+  "title": "Remove Element",
+  "titleSlug": "remove-element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "acRate": 62.24199485893814,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.8 MB",
+      "submissionTime": "2025-04-27T07:56:56.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.7 MB",
+      "submissionTime": "2026-01-17T17:50:05.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

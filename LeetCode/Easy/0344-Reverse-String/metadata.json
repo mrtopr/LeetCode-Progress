@@ -1,0 +1,27 @@
+{
+  "id": 344,
+  "title": "Reverse String",
+  "titleSlug": "reverse-string",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "acRate": 81.10360030102487,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "27.2 MB",
+      "submissionTime": "2025-01-29T17:14:35.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "28.1 MB",
+      "submissionTime": "2026-01-20T16:52:43.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

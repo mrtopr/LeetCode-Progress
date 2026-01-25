@@ -1,0 +1,34 @@
+{
+  "id": 792,
+  "title": "Binary Search",
+  "titleSlug": "binary-search",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "acRate": 61.2456250834118,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "31.2 MB",
+      "submissionTime": "2025-01-14T06:35:36.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "31.4 MB",
+      "submissionTime": "2025-10-26T19:23:04.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "31.4 MB",
+      "submissionTime": "2026-01-23T17:50:01.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

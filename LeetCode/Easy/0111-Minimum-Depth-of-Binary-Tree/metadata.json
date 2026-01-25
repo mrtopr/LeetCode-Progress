@@ -1,0 +1,22 @@
+{
+  "id": 111,
+  "title": "Minimum Depth of Binary Tree",
+  "titleSlug": "minimum-depth-of-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "acRate": 53.45602526724975,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "9 ms",
+      "memory": "147 MB",
+      "submissionTime": "2026-01-08T14:18:39.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

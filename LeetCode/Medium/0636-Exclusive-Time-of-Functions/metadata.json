@@ -1,0 +1,20 @@
+{
+  "id": 636,
+  "title": "Exclusive Time of Functions",
+  "titleSlug": "exclusive-time-of-functions",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack"
+  ],
+  "acRate": 66.272287952008,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "3 ms",
+      "memory": "17.2 MB",
+      "submissionTime": "2025-12-31T08:36:29.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

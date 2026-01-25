@@ -1,0 +1,22 @@
+{
+  "id": 145,
+  "title": "Binary Tree Postorder Traversal",
+  "titleSlug": "binary-tree-postorder-traversal",
+  "difficulty": "Easy",
+  "topics": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "acRate": 78.7014624804044,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.1 MB",
+      "submissionTime": "2026-01-03T04:29:38.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

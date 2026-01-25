@@ -1,0 +1,21 @@
+{
+  "id": 110,
+  "title": "Balanced Binary Tree",
+  "titleSlug": "balanced-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "acRate": 58.87791282423214,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "22.9 MB",
+      "submissionTime": "2026-01-09T16:19:13.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

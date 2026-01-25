@@ -1,0 +1,21 @@
+{
+  "id": 680,
+  "title": "Valid Palindrome II",
+  "titleSlug": "valid-palindrome-ii",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "acRate": 44.533353810539644,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "10 ms",
+      "memory": "22.1 MB",
+      "submissionTime": "2026-01-22T17:29:05.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

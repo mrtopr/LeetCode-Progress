@@ -1,0 +1,42 @@
+{
+  "id": 75,
+  "title": "Sort Colors",
+  "titleSlug": "sort-colors",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "acRate": 70.13355361054714,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.5 MB",
+      "submissionTime": "2025-06-04T13:02:48.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.7 MB",
+      "submissionTime": "2025-11-02T19:12:50.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.7 MB",
+      "submissionTime": "2025-11-02T19:21:00.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.6 MB",
+      "submissionTime": "2026-01-18T17:59:21.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

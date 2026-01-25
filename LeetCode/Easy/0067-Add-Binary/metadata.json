@@ -1,0 +1,22 @@
+{
+  "id": 67,
+  "title": "Add Binary",
+  "titleSlug": "add-binary",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Bit Manipulation",
+    "Simulation"
+  ],
+  "acRate": 58.3882391866445,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "2 ms",
+      "memory": "8.7 MB",
+      "submissionTime": "2026-01-05T17:13:55.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

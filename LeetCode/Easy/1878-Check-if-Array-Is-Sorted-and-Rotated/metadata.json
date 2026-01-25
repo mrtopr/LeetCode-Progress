@@ -1,0 +1,19 @@
+{
+  "id": 1878,
+  "title": "Check if Array Is Sorted and Rotated",
+  "titleSlug": "check-if-array-is-sorted-and-rotated",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "acRate": 57.56060016717287,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.3 MB",
+      "submissionTime": "2025-11-11T19:12:45.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "title": "Two Sum",
+  "titleSlug": "two-sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "acRate": 57.90532978465195,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "60 ms",
+      "memory": "13.9 MB",
+      "submissionTime": "2025-01-14T06:51:43.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "87 ms",
+      "memory": "14.1 MB",
+      "submissionTime": "2025-11-02T19:06:20.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "1 ms",
+      "memory": "14.8 MB",
+      "submissionTime": "2026-01-15T18:40:50.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 125,
+  "title": "Valid Palindrome",
+  "titleSlug": "valid-palindrome",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "acRate": 53.91625329482454,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "9.9 MB",
+      "submissionTime": "2025-01-29T18:43:03.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "10.9 MB",
+      "submissionTime": "2026-01-21T15:58:23.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

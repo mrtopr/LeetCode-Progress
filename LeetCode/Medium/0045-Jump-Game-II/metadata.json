@@ -1,0 +1,21 @@
+{
+  "id": 45,
+  "title": "Jump Game II",
+  "titleSlug": "jump-game-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "acRate": 43.25315473673207,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "20.5 MB",
+      "submissionTime": "2025-11-08T18:46:31.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

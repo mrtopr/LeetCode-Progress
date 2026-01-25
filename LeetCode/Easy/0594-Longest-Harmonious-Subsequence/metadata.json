@@ -1,0 +1,23 @@
+{
+  "id": 594,
+  "title": "Longest Harmonious Subsequence",
+  "titleSlug": "longest-harmonious-subsequence",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Sorting",
+    "Counting"
+  ],
+  "acRate": 64.91751655960329,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "18 ms",
+      "memory": "36.4 MB",
+      "submissionTime": "2026-01-12T19:12:21.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1570,
+  "title": "Final Prices With a Special Discount in a Shop",
+  "titleSlug": "final-prices-with-a-special-discount-in-a-shop",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "acRate": 84.2705861397289,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "4 ms",
+      "memory": "14.1 MB",
+      "submissionTime": "2025-12-31T08:47:50.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "14.2 MB",
+      "submissionTime": "2026-01-01T18:12:32.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

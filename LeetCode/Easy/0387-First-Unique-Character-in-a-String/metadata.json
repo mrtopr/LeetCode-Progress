@@ -1,0 +1,22 @@
+{
+  "id": 387,
+  "title": "First Unique Character in a String",
+  "titleSlug": "first-unique-character-in-a-string",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Queue",
+    "Counting"
+  ],
+  "acRate": 65.96712765867586,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "15 ms",
+      "memory": "15 MB",
+      "submissionTime": "2026-01-14T19:50:35.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

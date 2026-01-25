@@ -1,0 +1,35 @@
+{
+  "id": 14,
+  "title": "Longest Common Prefix",
+  "titleSlug": "longest-common-prefix",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "acRate": 48.060820856814104,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.8 MB",
+      "submissionTime": "2025-06-04T15:00:44.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.7 MB",
+      "submissionTime": "2025-06-04T16:53:19.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "12 MB",
+      "submissionTime": "2026-01-16T07:15:37.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 209,
+  "title": "Minimum Size Subarray Sum",
+  "titleSlug": "minimum-size-subarray-sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "acRate": 52.406728279753864,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "33.6 MB",
+      "submissionTime": "2026-01-02T20:18:16.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69,
+  "title": "Sqrt(x)",
+  "titleSlug": "sqrtx",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Binary Search"
+  ],
+  "acRate": 42.186492983106284,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "11 ms",
+      "memory": "8.6 MB",
+      "submissionTime": "2025-04-30T17:40:56.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "2 ms",
+      "memory": "8.6 MB",
+      "submissionTime": "2026-01-24T19:15:48.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

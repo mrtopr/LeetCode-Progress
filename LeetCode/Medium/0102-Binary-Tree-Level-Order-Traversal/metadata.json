@@ -1,0 +1,28 @@
+{
+  "id": 102,
+  "title": "Binary Tree Level Order Traversal",
+  "titleSlug": "binary-tree-level-order-traversal",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "acRate": 73.17710937824363,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "17 MB",
+      "submissionTime": "2026-01-03T15:13:53.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "17 MB",
+      "submissionTime": "2026-01-04T14:48:03.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

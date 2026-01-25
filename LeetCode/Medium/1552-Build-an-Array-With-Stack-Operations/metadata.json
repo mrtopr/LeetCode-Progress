@@ -1,0 +1,35 @@
+{
+  "id": 1552,
+  "title": "Build an Array With Stack Operations",
+  "titleSlug": "build-an-array-with-stack-operations",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "acRate": 80.8465337865821,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "10.8 MB",
+      "submissionTime": "2025-12-21T18:57:06.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "10.7 MB",
+      "submissionTime": "2025-12-30T18:12:56.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "10.8 MB",
+      "submissionTime": "2025-12-31T08:30:15.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

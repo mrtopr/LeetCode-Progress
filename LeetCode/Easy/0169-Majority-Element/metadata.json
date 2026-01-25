@@ -1,0 +1,44 @@
+{
+  "id": 169,
+  "title": "Majority Element",
+  "titleSlug": "majority-element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting"
+  ],
+  "acRate": 66.45068837001908,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "28.2 MB",
+      "submissionTime": "2025-04-20T13:20:53.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "3 ms",
+      "memory": "28.3 MB",
+      "submissionTime": "2025-06-02T11:43:12.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "2 ms",
+      "memory": "28.3 MB",
+      "submissionTime": "2026-01-17T18:36:38.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "28.2 MB",
+      "submissionTime": "2026-01-17T18:53:36.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

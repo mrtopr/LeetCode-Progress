@@ -1,0 +1,27 @@
+{
+  "id": 2058,
+  "title": "Concatenation of Array",
+  "titleSlug": "concatenation-of-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "acRate": 90.10701646690072,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "16.8 MB",
+      "submissionTime": "2025-12-21T17:05:30.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "16.8 MB",
+      "submissionTime": "2026-01-15T16:38:32.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 374,
+  "title": "Guess Number Higher or Lower",
+  "titleSlug": "guess-number-higher-or-lower",
+  "difficulty": "Easy",
+  "topics": [
+    "Binary Search",
+    "Interactive"
+  ],
+  "acRate": 58.00807287708339,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "2 ms",
+      "memory": "7.9 MB",
+      "submissionTime": "2026-01-23T18:04:03.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

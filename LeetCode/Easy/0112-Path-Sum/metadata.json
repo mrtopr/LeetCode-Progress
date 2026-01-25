@@ -1,0 +1,22 @@
+{
+  "id": 112,
+  "title": "Path Sum",
+  "titleSlug": "path-sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "acRate": 55.40119657140562,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "21.4 MB",
+      "submissionTime": "2026-01-08T14:25:45.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

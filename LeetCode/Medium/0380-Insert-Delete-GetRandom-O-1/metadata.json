@@ -1,0 +1,30 @@
+{
+  "id": 380,
+  "title": "Insert Delete GetRandom O(1)",
+  "titleSlug": "insert-delete-getrandom-o1",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Design",
+    "Randomized"
+  ],
+  "acRate": 55.45628718203106,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "58 ms",
+      "memory": "113.3 MB",
+      "submissionTime": "2026-01-01T18:36:18.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "36 ms",
+      "memory": "113.3 MB",
+      "submissionTime": "2026-01-01T18:47:23.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

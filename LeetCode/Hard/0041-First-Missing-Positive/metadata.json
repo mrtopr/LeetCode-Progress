@@ -1,0 +1,27 @@
+{
+  "id": 41,
+  "title": "First Missing Positive",
+  "titleSlug": "first-missing-positive",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "acRate": 43.404764992133614,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "55.1 MB",
+      "submissionTime": "2026-01-20T16:31:38.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "12 ms",
+      "memory": "55 MB",
+      "submissionTime": "2026-01-20T16:41:03.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

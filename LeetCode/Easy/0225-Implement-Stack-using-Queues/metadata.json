@@ -1,0 +1,35 @@
+{
+  "id": 225,
+  "title": "Implement Stack using Queues",
+  "titleSlug": "implement-stack-using-queues",
+  "difficulty": "Easy",
+  "topics": [
+    "Stack",
+    "Design",
+    "Queue"
+  ],
+  "acRate": 70.55126638874545,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "9.5 MB",
+      "submissionTime": "2025-06-15T19:47:35.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "9.4 MB",
+      "submissionTime": "2026-01-25T19:09:32.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "9.4 MB",
+      "submissionTime": "2026-01-25T19:53:42.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

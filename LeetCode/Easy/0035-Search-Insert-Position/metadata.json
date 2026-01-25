@@ -1,0 +1,34 @@
+{
+  "id": 35,
+  "title": "Search Insert Position",
+  "titleSlug": "search-insert-position",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "acRate": 51.85660682964362,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "13.5 MB",
+      "submissionTime": "2025-04-13T19:23:30.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "13.6 MB",
+      "submissionTime": "2025-10-26T19:31:30.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "13.6 MB",
+      "submissionTime": "2026-01-23T17:50:36.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

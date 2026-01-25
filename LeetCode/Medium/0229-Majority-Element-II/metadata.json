@@ -1,0 +1,22 @@
+{
+  "id": 229,
+  "title": "Majority Element II",
+  "titleSlug": "majority-element-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting"
+  ],
+  "acRate": 56.58839932467372,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "11 ms",
+      "memory": "26.4 MB",
+      "submissionTime": "2026-01-19T18:30:25.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

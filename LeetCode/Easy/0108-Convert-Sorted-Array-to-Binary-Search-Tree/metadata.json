@@ -1,0 +1,23 @@
+{
+  "id": 108,
+  "title": "Convert Sorted Array to Binary Search Tree",
+  "titleSlug": "convert-sorted-array-to-binary-search-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "acRate": 75.90774195589584,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "4 ms",
+      "memory": "22.9 MB",
+      "submissionTime": "2026-01-13T19:15:01.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

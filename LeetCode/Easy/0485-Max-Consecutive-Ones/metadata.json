@@ -1,0 +1,33 @@
+{
+  "id": 485,
+  "title": "Max Consecutive Ones",
+  "titleSlug": "max-consecutive-ones",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "acRate": 65.76654360737247,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "50 MB",
+      "submissionTime": "2025-06-02T19:11:32.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "1 ms",
+      "memory": "51.9 MB",
+      "submissionTime": "2025-12-21T17:25:14.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "50.1 MB",
+      "submissionTime": "2025-12-21T17:36:02.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

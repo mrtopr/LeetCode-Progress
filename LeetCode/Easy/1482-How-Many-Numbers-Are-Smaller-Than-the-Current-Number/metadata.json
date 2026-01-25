@@ -1,0 +1,22 @@
+{
+  "id": 1482,
+  "title": "How Many Numbers Are Smaller Than the Current Number",
+  "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "acRate": 87.45513515104577,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "6 ms",
+      "memory": "14.2 MB",
+      "submissionTime": "2025-12-21T18:15:48.000Z",
+      "status": "Accepted"
+    }
+  ]
+}
