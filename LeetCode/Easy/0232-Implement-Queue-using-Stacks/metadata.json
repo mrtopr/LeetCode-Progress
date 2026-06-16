@@ -1,0 +1,28 @@
+{
+  "id": 232,
+  "title": "Implement Queue using Stacks",
+  "titleSlug": "implement-queue-using-stacks",
+  "difficulty": "Easy",
+  "topics": [
+    "Stack",
+    "Design",
+    "Queue"
+  ],
+  "acRate": 70.21151275326922,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "9.5 MB",
+      "submissionTime": "2025-06-16T04:12:48.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "9.7 MB",
+      "submissionTime": "2026-01-25T20:37:08.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

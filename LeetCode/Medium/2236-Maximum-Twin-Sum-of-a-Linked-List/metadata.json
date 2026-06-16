@@ -1,0 +1,21 @@
+{
+  "id": 2236,
+  "title": "Maximum Twin Sum of a Linked List",
+  "titleSlug": "maximum-twin-sum-of-a-linked-list",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers",
+    "Stack"
+  ],
+  "acRate": 83.25427138053593,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "14 ms",
+      "memory": "138.3 MB",
+      "submissionTime": "2026-06-14T14:16:13.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3931,
+  "title": "Process String with Special Operations I",
+  "titleSlug": "process-string-with-special-operations-i",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "acRate": 71.45664437553704,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "39.8 MB",
+      "submissionTime": "2026-06-16T08:20:32.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

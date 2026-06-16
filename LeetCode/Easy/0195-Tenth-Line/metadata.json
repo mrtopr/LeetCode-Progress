@@ -1,0 +1,19 @@
+{
+  "id": 195,
+  "title": "Tenth Line",
+  "titleSlug": "tenth-line",
+  "difficulty": "Easy",
+  "topics": [
+    "Shell"
+  ],
+  "acRate": 37.20961507593932,
+  "submissions": [
+    {
+      "language": "bash",
+      "runtime": "19 ms",
+      "memory": "4 MB",
+      "submissionTime": "2026-06-15T13:21:48.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

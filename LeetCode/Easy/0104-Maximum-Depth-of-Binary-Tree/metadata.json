@@ -1,0 +1,43 @@
+{
+  "id": 104,
+  "title": "Maximum Depth of Binary Tree",
+  "titleSlug": "maximum-depth-of-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "acRate": 78.45740031017269,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "19 MB",
+      "submissionTime": "2026-01-07T18:19:50.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "19.1 MB",
+      "submissionTime": "2026-01-07T18:20:01.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "19.1 MB",
+      "submissionTime": "2026-02-07T20:53:18.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "19.1 MB",
+      "submissionTime": "2026-06-11T09:15:02.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

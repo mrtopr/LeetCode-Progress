@@ -1,0 +1,22 @@
+{
+  "id": 860,
+  "title": "Design Circular Queue",
+  "titleSlug": "design-circular-queue",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Linked List",
+    "Design",
+    "Queue"
+  ],
+  "acRate": 55.13944658417329,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "23.4 MB",
+      "submissionTime": "2026-03-07T20:16:56.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

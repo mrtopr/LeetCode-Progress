@@ -1,0 +1,28 @@
+{
+  "id": 682,
+  "title": "Baseball Game",
+  "titleSlug": "baseball-game",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "acRate": 80.9022961789979,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "12 MB",
+      "submissionTime": "2025-05-16T17:38:28.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "12.7 MB",
+      "submissionTime": "2026-01-29T19:26:48.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

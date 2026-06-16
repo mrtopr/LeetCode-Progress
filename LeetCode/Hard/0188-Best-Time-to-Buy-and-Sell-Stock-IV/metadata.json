@@ -1,0 +1,41 @@
+{
+  "id": 188,
+  "title": "Best Time to Buy and Sell Stock IV",
+  "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "acRate": 50.853867661141585,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "4 ms",
+      "memory": "18.2 MB",
+      "submissionTime": "2026-06-02T04:03:55.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "7 ms",
+      "memory": "14.4 MB",
+      "submissionTime": "2026-06-02T04:07:38.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "4 ms",
+      "memory": "17.7 MB",
+      "submissionTime": "2026-06-02T07:08:36.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "4 ms",
+      "memory": "17.8 MB",
+      "submissionTime": "2026-06-02T08:20:46.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1127,
+  "title": "Last Stone Weight",
+  "titleSlug": "last-stone-weight",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "acRate": 66.67118931984497,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "10 MB",
+      "submissionTime": "2026-02-04T18:44:35.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

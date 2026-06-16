@@ -1,0 +1,36 @@
+{
+  "id": 226,
+  "title": "Invert Binary Tree",
+  "titleSlug": "invert-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "acRate": 80.30048577412191,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "12.5 MB",
+      "submissionTime": "2026-02-07T20:04:10.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "12.4 MB",
+      "submissionTime": "2026-02-07T20:08:15.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "12.3 MB",
+      "submissionTime": "2026-05-21T16:12:01.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

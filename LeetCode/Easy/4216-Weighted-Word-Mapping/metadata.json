@@ -1,0 +1,35 @@
+{
+  "id": 4216,
+  "title": "Weighted Word Mapping",
+  "titleSlug": "weighted-word-mapping",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "acRate": 90.60131918799496,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "43.5 MB",
+      "submissionTime": "2026-02-14T15:40:40.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "45.4 MB",
+      "submissionTime": "2026-06-13T05:49:40.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "4 ms",
+      "memory": "46.7 MB",
+      "submissionTime": "2026-06-13T05:50:35.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

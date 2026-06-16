@@ -1,0 +1,24 @@
+{
+  "id": 3842,
+  "title": "Number of Ways to Assign Edge Weights II",
+  "titleSlug": "number-of-ways-to-assign-edge-weights-ii",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "acRate": 72.41772031762436,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "255 ms",
+      "memory": "357.6 MB",
+      "submissionTime": "2026-06-12T18:28:55.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

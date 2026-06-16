@@ -1,0 +1,31 @@
+{
+  "id": 789,
+  "title": "Kth Largest Element in a Stream",
+  "titleSlug": "kth-largest-element-in-a-stream",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Design",
+    "Binary Search Tree",
+    "Heap (Priority Queue)",
+    "Binary Tree",
+    "Data Stream"
+  ],
+  "acRate": 61.38177609248292,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "7 ms",
+      "memory": "33.1 MB",
+      "submissionTime": "2026-02-01T13:01:22.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "8 ms",
+      "memory": "33.1 MB",
+      "submissionTime": "2026-02-04T18:22:52.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

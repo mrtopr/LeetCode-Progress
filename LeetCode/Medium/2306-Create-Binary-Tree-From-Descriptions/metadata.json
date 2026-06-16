@@ -1,0 +1,22 @@
+{
+  "id": 2306,
+  "title": "Create Binary Tree From Descriptions",
+  "titleSlug": "create-binary-tree-from-descriptions",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Tree",
+    "Binary Tree"
+  ],
+  "acRate": 83.90382819794584,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "177 ms",
+      "memory": "279.1 MB",
+      "submissionTime": "2026-06-07T16:27:51.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

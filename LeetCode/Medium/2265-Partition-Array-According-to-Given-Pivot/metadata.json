@@ -1,0 +1,21 @@
+{
+  "id": 2265,
+  "title": "Partition Array According to Given Pivot",
+  "titleSlug": "partition-array-according-to-given-pivot",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Simulation"
+  ],
+  "acRate": 90.75227684897975,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "10 ms",
+      "memory": "133.5 MB",
+      "submissionTime": "2026-06-08T09:00:27.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

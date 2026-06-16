@@ -1,0 +1,33 @@
+{
+  "id": 347,
+  "title": "Top K Frequent Elements",
+  "titleSlug": "top-k-frequent-elements",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting",
+    "Quickselect"
+  ],
+  "acRate": 66.99251801911726,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "1 ms",
+      "memory": "18 MB",
+      "submissionTime": "2025-04-20T13:26:33.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "17.9 MB",
+      "submissionTime": "2026-02-08T17:56:12.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

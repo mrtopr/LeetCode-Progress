@@ -1,0 +1,22 @@
+{
+  "id": 4118,
+  "title": "Design Ride Sharing System",
+  "titleSlug": "design-ride-sharing-system",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Design",
+    "Queue",
+    "Data Stream"
+  ],
+  "acRate": 63.36856171039844,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "40 ms",
+      "memory": "142.1 MB",
+      "submissionTime": "2026-02-01T03:11:10.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

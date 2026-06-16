@@ -1,0 +1,19 @@
+{
+  "id": 1054,
+  "title": "Complement of Base 10 Integer",
+  "titleSlug": "complement-of-base-10-integer",
+  "difficulty": "Easy",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "acRate": 63.369247340633336,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8 MB",
+      "submissionTime": "2026-03-11T10:06:56.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

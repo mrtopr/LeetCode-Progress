@@ -1,0 +1,35 @@
+{
+  "id": 219,
+  "title": "Contains Duplicate II",
+  "titleSlug": "contains-duplicate-ii",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "acRate": 51.683628054958085,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "84 ms",
+      "memory": "93.7 MB",
+      "submissionTime": "2025-11-04T20:09:03.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "82 ms",
+      "memory": "93.6 MB",
+      "submissionTime": "2026-01-28T19:17:05.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "87 ms",
+      "memory": "93.8 MB",
+      "submissionTime": "2026-02-15T15:24:49.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

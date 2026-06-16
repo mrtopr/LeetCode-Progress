@@ -1,0 +1,20 @@
+{
+  "id": 4313,
+  "title": "Password Strength",
+  "titleSlug": "password-strength",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "acRate": 75.25326078258782,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "23 ms",
+      "memory": "17.6 MB",
+      "submissionTime": "2026-05-24T02:56:33.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

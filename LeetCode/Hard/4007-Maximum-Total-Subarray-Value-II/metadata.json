@@ -1,0 +1,22 @@
+{
+  "id": 4007,
+  "title": "Maximum Total Subarray Value II",
+  "titleSlug": "maximum-total-subarray-value-ii",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Segment Tree",
+    "Heap (Priority Queue)"
+  ],
+  "acRate": 41.73527051521631,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "300 ms",
+      "memory": "249.6 MB",
+      "submissionTime": "2026-06-10T13:20:38.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

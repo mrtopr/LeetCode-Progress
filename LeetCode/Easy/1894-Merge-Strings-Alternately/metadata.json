@@ -1,0 +1,20 @@
+{
+  "id": 1894,
+  "title": "Merge Strings Alternately",
+  "titleSlug": "merge-strings-alternately",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "acRate": 82.13463503304341,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.4 MB",
+      "submissionTime": "2026-01-31T18:32:15.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

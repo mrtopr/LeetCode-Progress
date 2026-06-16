@@ -1,0 +1,20 @@
+{
+  "id": 2216,
+  "title": "Delete the Middle Node of a Linked List",
+  "titleSlug": "delete-the-middle-node-of-a-linked-list",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "acRate": 60.92978113349764,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "311.9 MB",
+      "submissionTime": "2026-06-15T13:12:06.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

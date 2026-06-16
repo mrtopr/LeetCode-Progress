@@ -1,0 +1,17 @@
+{
+  "id": 2789,
+  "title": "Counter II",
+  "titleSlug": "counter-ii",
+  "difficulty": "Easy",
+  "topics": [],
+  "acRate": 81.24033294613902,
+  "submissions": [
+    {
+      "language": "javascript",
+      "runtime": "47 ms",
+      "memory": "57.5 MB",
+      "submissionTime": "2026-06-06T15:43:05.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 141,
+  "title": "Linked List Cycle",
+  "titleSlug": "linked-list-cycle",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ],
+  "acRate": 54.79411678924421,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "12 ms",
+      "memory": "11.9 MB",
+      "submissionTime": "2025-04-26T05:17:28.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "12 ms",
+      "memory": "11.7 MB",
+      "submissionTime": "2025-06-09T16:00:45.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "12 ms",
+      "memory": "11.7 MB",
+      "submissionTime": "2026-02-11T08:13:53.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

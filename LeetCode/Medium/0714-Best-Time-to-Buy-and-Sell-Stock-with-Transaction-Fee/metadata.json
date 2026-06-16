@@ -1,0 +1,28 @@
+{
+  "id": 714,
+  "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+  "titleSlug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "acRate": 72.38625189739281,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "15 ms",
+      "memory": "63.4 MB",
+      "submissionTime": "2026-06-02T11:51:34.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "12 ms",
+      "memory": "63.6 MB",
+      "submissionTime": "2026-06-02T11:52:14.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

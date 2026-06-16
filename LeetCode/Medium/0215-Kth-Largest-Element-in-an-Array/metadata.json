@@ -1,0 +1,23 @@
+{
+  "id": 215,
+  "title": "Kth Largest Element in an Array",
+  "titleSlug": "kth-largest-element-in-an-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Quickselect"
+  ],
+  "acRate": 69.17812332806027,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "35 ms",
+      "memory": "61.5 MB",
+      "submissionTime": "2026-02-06T16:00:58.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

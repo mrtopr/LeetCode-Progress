@@ -1,0 +1,21 @@
+{
+  "id": 128,
+  "title": "Longest Consecutive Sequence",
+  "titleSlug": "longest-consecutive-sequence",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Union-Find"
+  ],
+  "acRate": 47.183993879469725,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "12 ms",
+      "memory": "60.2 MB",
+      "submissionTime": "2026-06-13T06:49:01.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4137,
+  "title": "Number of Prefix Connected Groups",
+  "titleSlug": "number-of-prefix-connected-groups",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "acRate": 60.7326361603095,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "83 ms",
+      "memory": "137.5 MB",
+      "submissionTime": "2026-02-14T15:57:19.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 658,
+  "title": "Find K Closest Elements",
+  "titleSlug": "find-k-closest-elements",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sliding Window",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "acRate": 49.943096827192065,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "7 ms",
+      "memory": "36.5 MB",
+      "submissionTime": "2026-02-16T21:30:41.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "35.9 MB",
+      "submissionTime": "2026-02-16T21:33:01.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

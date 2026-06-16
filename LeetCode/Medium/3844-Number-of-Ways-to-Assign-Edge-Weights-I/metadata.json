@@ -1,0 +1,21 @@
+{
+  "id": 3844,
+  "title": "Number of Ways to Assign Edge Weights I",
+  "titleSlug": "number-of-ways-to-assign-edge-weights-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "acRate": 63.98914922406593,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "466 ms",
+      "memory": "395.4 MB",
+      "submissionTime": "2026-06-11T10:13:49.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

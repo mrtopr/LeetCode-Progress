@@ -1,0 +1,19 @@
+{
+  "id": 3952,
+  "title": "Trionic Array I",
+  "titleSlug": "trionic-array-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "acRate": 49.53013220680621,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "27.7 MB",
+      "submissionTime": "2026-02-03T22:21:37.000Z",
+      "status": "Accepted"
+    }
+  ]
+}
