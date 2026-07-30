@@ -1,7 +1,7 @@
 # 1574. Maximum Product of Two Elements in an Array
 
 **Difficulty:** Easy
-**Acceptance Rate:** 8491.6%
+**Acceptance Rate:** 8491.5%
 
 **Topics:** Array, Sorting, Heap (Priority Queue)
 

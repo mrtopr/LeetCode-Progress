@@ -9,15 +9,8 @@
     "Bit Manipulation",
     "Enumeration"
   ],
-  "acRate": 52.802177135650595,
+  "acRate": 52.80322138147706,
   "submissions": [
-    {
-      "language": "cpp",
-      "runtime": "1911 ms",
-      "memory": "98.3 MB",
-      "submissionTime": "2026-07-24T11:12:52.000Z",
-      "status": "Accepted"
-    },
     {
       "language": "cpp",
       "runtime": "2041 ms",

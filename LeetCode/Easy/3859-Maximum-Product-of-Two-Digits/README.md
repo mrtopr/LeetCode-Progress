@@ -1,7 +1,7 @@
 # 3859. Maximum Product of Two Digits
 
 **Difficulty:** Easy
-**Acceptance Rate:** 7581.4%
+**Acceptance Rate:** 7581.5%
 
 **Topics:** Math, Sorting
 

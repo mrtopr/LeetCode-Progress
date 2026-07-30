@@ -1,7 +1,7 @@
 # 3812. Smallest Palindromic Rearrangement I
 
 **Difficulty:** Medium
-**Acceptance Rate:** 7448.4%
+**Acceptance Rate:** 7448.6%
 
 **Topics:** String, Sorting, Counting Sort
 

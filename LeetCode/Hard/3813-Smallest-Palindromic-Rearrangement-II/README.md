@@ -1,7 +1,7 @@
 # 3813. Smallest Palindromic Rearrangement II
 
 **Difficulty:** Hard
-**Acceptance Rate:** 4422.1%
+**Acceptance Rate:** 4422.5%
 
 **Topics:** Hash Table, Math, String, Combinatorics, Counting
 

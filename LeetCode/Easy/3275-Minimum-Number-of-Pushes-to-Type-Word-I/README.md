@@ -1,7 +1,7 @@
 # 3275. Minimum Number of Pushes to Type Word I
 
 **Difficulty:** Easy
-**Acceptance Rate:** 7675.5%
+**Acceptance Rate:** 7684.4%
 
 **Topics:** Math, String, Greedy
 

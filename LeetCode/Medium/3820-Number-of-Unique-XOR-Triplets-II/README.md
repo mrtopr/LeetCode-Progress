@@ -1,7 +1,7 @@
 # 3820. Number of Unique XOR Triplets II
 
 **Difficulty:** Medium
-**Acceptance Rate:** 5280.2%
+**Acceptance Rate:** 5280.3%
 
 **Topics:** Array, Math, Bit Manipulation, Enumeration
 
