@@ -1,0 +1,21 @@
+{
+  "id": 3275,
+  "title": "Minimum Number of Pushes to Type Word I",
+  "titleSlug": "minimum-number-of-pushes-to-type-word-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Greedy"
+  ],
+  "acRate": 76.75502771764468,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.3 MB",
+      "submissionTime": "2026-07-30T06:31:45.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

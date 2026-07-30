@@ -1,0 +1,28 @@
+{
+  "id": 1386,
+  "title": "Shift 2D Grid",
+  "titleSlug": "shift-2d-grid",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "acRate": 74.44120767474061,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "15 ms",
+      "memory": "21.2 MB",
+      "submissionTime": "2026-07-20T04:08:52.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "11 ms",
+      "memory": "21.1 MB",
+      "submissionTime": "2026-07-20T04:13:00.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

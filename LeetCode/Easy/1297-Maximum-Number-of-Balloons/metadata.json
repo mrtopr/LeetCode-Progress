@@ -1,0 +1,21 @@
+{
+  "id": 1297,
+  "title": "Maximum Number of Balloons",
+  "titleSlug": "maximum-number-of-balloons",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "acRate": 64.22899277786478,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "9 MB",
+      "submissionTime": "2026-06-22T06:59:22.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

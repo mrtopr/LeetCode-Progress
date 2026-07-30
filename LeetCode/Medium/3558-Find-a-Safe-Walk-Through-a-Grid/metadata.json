@@ -1,0 +1,24 @@
+{
+  "id": 3558,
+  "title": "Find a Safe Walk Through a Grid",
+  "titleSlug": "find-a-safe-walk-through-a-grid",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Shortest Path"
+  ],
+  "acRate": 55.41039210477923,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "23 ms",
+      "memory": "37.2 MB",
+      "submissionTime": "2026-07-02T16:31:53.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

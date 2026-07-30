@@ -1,0 +1,36 @@
+{
+  "id": 1961,
+  "title": "Maximum Ice Cream Bars",
+  "titleSlug": "maximum-ice-cream-bars",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "acRate": 77.24029450072852,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "17 ms",
+      "memory": "95.7 MB",
+      "submissionTime": "2026-06-21T15:04:06.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "8 ms",
+      "memory": "87.6 MB",
+      "submissionTime": "2026-06-21T15:48:41.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "11 ms",
+      "memory": "87.8 MB",
+      "submissionTime": "2026-06-21T15:51:15.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

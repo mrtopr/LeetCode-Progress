@@ -1,0 +1,21 @@
+{
+  "id": 1460,
+  "title": "Number of Substrings Containing All Three Characters",
+  "titleSlug": "number-of-substrings-containing-all-three-characters",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "acRate": 74.39016305695576,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "2 ms",
+      "memory": "11 MB",
+      "submissionTime": "2026-06-30T10:00:00.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

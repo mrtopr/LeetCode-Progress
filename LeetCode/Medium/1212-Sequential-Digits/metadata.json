@@ -1,0 +1,19 @@
+{
+  "id": 1212,
+  "title": "Sequential Digits",
+  "titleSlug": "sequential-digits",
+  "difficulty": "Medium",
+  "topics": [
+    "Enumeration"
+  ],
+  "acRate": 68.6219328683556,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.4 MB",
+      "submissionTime": "2026-07-13T16:09:26.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

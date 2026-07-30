@@ -1,0 +1,20 @@
+{
+  "id": 3964,
+  "title": "Number of ZigZag Arrays II",
+  "titleSlug": "number-of-zigzag-arrays-ii",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "acRate": 67.56399515963884,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "432 ms",
+      "memory": "33.6 MB",
+      "submissionTime": "2026-06-24T18:24:56.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

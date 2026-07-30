@@ -1,0 +1,25 @@
+{
+  "id": 4074,
+  "title": "Count Subarrays With Majority Element I",
+  "titleSlug": "count-subarrays-with-majority-element-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Merge Sort",
+    "Counting",
+    "Prefix Sum"
+  ],
+  "acRate": 75.67263953604197,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "45 ms",
+      "memory": "39.6 MB",
+      "submissionTime": "2026-06-25T15:55:13.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

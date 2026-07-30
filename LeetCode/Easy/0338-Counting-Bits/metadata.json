@@ -1,0 +1,20 @@
+{
+  "id": 338,
+  "title": "Counting Bits",
+  "titleSlug": "counting-bits",
+  "difficulty": "Easy",
+  "topics": [
+    "Dynamic Programming",
+    "Bit Manipulation"
+  ],
+  "acRate": 80.78795322138575,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "3 ms",
+      "memory": "11.4 MB",
+      "submissionTime": "2026-07-30T15:04:48.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

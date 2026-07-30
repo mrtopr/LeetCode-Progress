@@ -1,0 +1,27 @@
+{
+  "id": 1833,
+  "title": "Find the Highest Altitude",
+  "titleSlug": "find-the-highest-altitude",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "acRate": 84.63728238108786,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "10.6 MB",
+      "submissionTime": "2026-06-19T01:40:47.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "10.7 MB",
+      "submissionTime": "2026-06-19T01:42:23.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

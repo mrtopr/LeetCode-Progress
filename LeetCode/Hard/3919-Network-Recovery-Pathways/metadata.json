@@ -1,0 +1,25 @@
+{
+  "id": 3919,
+  "title": "Network Recovery Pathways",
+  "titleSlug": "network-recovery-pathways",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Graph Theory",
+    "Topological Sort",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "acRate": 50.736007153931475,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "176 ms",
+      "memory": "333.6 MB",
+      "submissionTime": "2026-07-03T18:06:06.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

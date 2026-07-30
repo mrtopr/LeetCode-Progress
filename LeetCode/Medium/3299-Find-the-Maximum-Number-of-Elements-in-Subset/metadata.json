@@ -1,0 +1,21 @@
+{
+  "id": 3299,
+  "title": "Find the Maximum Number of Elements in Subset",
+  "titleSlug": "find-the-maximum-number-of-elements-in-subset",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Enumeration"
+  ],
+  "acRate": 42.29143927549485,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "71 ms",
+      "memory": "122.8 MB",
+      "submissionTime": "2026-06-27T16:47:32.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

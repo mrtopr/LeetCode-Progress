@@ -1,0 +1,48 @@
+{
+  "id": 2099,
+  "title": "Number of Strings That Appear as Substrings in Word",
+  "titleSlug": "number-of-strings-that-appear-as-substrings-in-word",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String"
+  ],
+  "acRate": 86.16331449727879,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.7 MB",
+      "submissionTime": "2026-06-29T15:07:31.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.7 MB",
+      "submissionTime": "2026-06-29T15:09:57.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "1 ms",
+      "memory": "11.9 MB",
+      "submissionTime": "2026-06-29T15:10:36.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.9 MB",
+      "submissionTime": "2026-06-29T15:12:32.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "11.8 MB",
+      "submissionTime": "2026-06-29T15:41:53.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

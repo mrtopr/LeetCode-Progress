@@ -1,0 +1,19 @@
+{
+  "id": 4135,
+  "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+  "titleSlug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "acRate": 66.19180380279899,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.8 MB",
+      "submissionTime": "2026-07-07T04:40:00.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

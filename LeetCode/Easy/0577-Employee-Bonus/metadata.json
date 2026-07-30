@@ -1,0 +1,19 @@
+{
+  "id": 577,
+  "title": "Employee Bonus",
+  "titleSlug": "employee-bonus",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "acRate": 77.78899801570759,
+  "submissions": [
+    {
+      "language": "mysql",
+      "runtime": "959 ms",
+      "memory": "0.0B",
+      "submissionTime": "2026-07-01T08:28:06.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

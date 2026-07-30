@@ -1,0 +1,20 @@
+{
+  "id": 3859,
+  "title": "Maximum Product of Two Digits",
+  "titleSlug": "maximum-product-of-two-digits",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Sorting"
+  ],
+  "acRate": 75.81419877680482,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.6 MB",
+      "submissionTime": "2026-07-25T18:23:34.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

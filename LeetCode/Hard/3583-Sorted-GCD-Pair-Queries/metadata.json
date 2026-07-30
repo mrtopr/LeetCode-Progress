@@ -1,0 +1,26 @@
+{
+  "id": 3583,
+  "title": "Sorted GCD Pair Queries",
+  "titleSlug": "sorted-gcd-pair-queries",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Combinatorics",
+    "Counting",
+    "Number Theory",
+    "Prefix Sum"
+  ],
+  "acRate": 58.38410889873147,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "40 ms",
+      "memory": "127.6 MB",
+      "submissionTime": "2026-07-17T18:16:12.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

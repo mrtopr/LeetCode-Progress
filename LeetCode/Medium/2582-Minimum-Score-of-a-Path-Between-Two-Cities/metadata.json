@@ -1,0 +1,22 @@
+{
+  "id": 2582,
+  "title": "Minimum Score of a Path Between Two Cities",
+  "titleSlug": "minimum-score-of-a-path-between-two-cities",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "acRate": 66.2208520251527,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "58 ms",
+      "memory": "132.7 MB",
+      "submissionTime": "2026-07-04T12:15:48.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

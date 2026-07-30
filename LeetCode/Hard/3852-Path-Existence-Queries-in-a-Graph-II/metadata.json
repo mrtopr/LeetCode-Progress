@@ -1,0 +1,26 @@
+{
+  "id": 3852,
+  "title": "Path Existence Queries in a Graph II",
+  "titleSlug": "path-existence-queries-in-a-graph-ii",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy",
+    "Bit Manipulation",
+    "Graph Theory",
+    "Sorting"
+  ],
+  "acRate": 64.16032450846222,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "359 ms",
+      "memory": "395.4 MB",
+      "submissionTime": "2026-07-10T02:10:43.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

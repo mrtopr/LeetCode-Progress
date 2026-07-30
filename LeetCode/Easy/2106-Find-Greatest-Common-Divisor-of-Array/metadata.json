@@ -1,0 +1,28 @@
+{
+  "id": 2106,
+  "title": "Find Greatest Common Divisor of Array",
+  "titleSlug": "find-greatest-common-divisor-of-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Number Theory"
+  ],
+  "acRate": 83.45822289380466,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "16.3 MB",
+      "submissionTime": "2025-05-21T17:39:41.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "16.2 MB",
+      "submissionTime": "2026-07-18T17:39:50.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

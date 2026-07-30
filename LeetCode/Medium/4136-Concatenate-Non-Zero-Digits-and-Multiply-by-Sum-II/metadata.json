@@ -1,0 +1,21 @@
+{
+  "id": 4136,
+  "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+  "titleSlug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "String",
+    "Prefix Sum"
+  ],
+  "acRate": 42.64650846112571,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "16 ms",
+      "memory": "134.4 MB",
+      "submissionTime": "2026-07-08T18:30:33.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

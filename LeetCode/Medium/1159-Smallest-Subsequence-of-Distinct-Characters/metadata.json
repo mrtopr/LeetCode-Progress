@@ -1,0 +1,22 @@
+{
+  "id": 1159,
+  "title": "Smallest Subsequence of Distinct Characters",
+  "titleSlug": "smallest-subsequence-of-distinct-characters",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+  ],
+  "acRate": 70.52494438913173,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.8 MB",
+      "submissionTime": "2026-07-19T22:46:02.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3824,
+  "title": "Number of Unique XOR Triplets I",
+  "titleSlug": "number-of-unique-xor-triplets-i",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Bit Manipulation"
+  ],
+  "acRate": 57.55496999136324,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "198.9 MB",
+      "submissionTime": "2026-07-24T10:53:16.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

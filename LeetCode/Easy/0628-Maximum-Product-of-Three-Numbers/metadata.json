@@ -1,0 +1,21 @@
+{
+  "id": 628,
+  "title": "Maximum Product of Three Numbers",
+  "titleSlug": "maximum-product-of-three-numbers",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "acRate": 48.146349957048116,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "15 ms",
+      "memory": "31.7 MB",
+      "submissionTime": "2026-07-26T09:40:23.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1256,
+  "title": "Rank Transform of an Array",
+  "titleSlug": "rank-transform-of-an-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "acRate": 73.9379079692413,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "23 ms",
+      "memory": "36.5 MB",
+      "submissionTime": "2026-07-12T18:04:41.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "23 ms",
+      "memory": "36.4 MB",
+      "submissionTime": "2026-07-12T18:05:27.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "83 ms",
+      "memory": "52.5 MB",
+      "submissionTime": "2026-07-12T18:07:29.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

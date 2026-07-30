@@ -1,0 +1,27 @@
+{
+  "id": 1222,
+  "title": "Remove Covered Intervals",
+  "titleSlug": "remove-covered-intervals",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "acRate": 60.11561218605116,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "15.1 MB",
+      "submissionTime": "2026-07-06T15:31:27.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "6 ms",
+      "memory": "15.7 MB",
+      "submissionTime": "2026-07-07T04:22:27.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

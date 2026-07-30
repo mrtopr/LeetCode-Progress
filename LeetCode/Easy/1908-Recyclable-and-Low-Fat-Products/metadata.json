@@ -1,0 +1,19 @@
+{
+  "id": 1908,
+  "title": "Recyclable and Low Fat Products",
+  "titleSlug": "recyclable-and-low-fat-products",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "acRate": 88.6233344896764,
+  "submissions": [
+    {
+      "language": "mysql",
+      "runtime": "534 ms",
+      "memory": "0.0B",
+      "submissionTime": "2026-07-01T08:32:43.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

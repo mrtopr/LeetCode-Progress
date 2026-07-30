@@ -1,0 +1,21 @@
+{
+  "id": 1968,
+  "title": "Maximum Building Height",
+  "titleSlug": "maximum-building-height",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "acRate": 66.99828336460537,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "51 ms",
+      "memory": "106.6 MB",
+      "submissionTime": "2026-06-20T08:36:59.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

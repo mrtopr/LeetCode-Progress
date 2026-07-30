@@ -1,0 +1,28 @@
+{
+  "id": 3812,
+  "title": "Smallest Palindromic Rearrangement I",
+  "titleSlug": "smallest-palindromic-rearrangement-i",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "acRate": 74.48376183196041,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "7 ms",
+      "memory": "54.3 MB",
+      "submissionTime": "2026-07-28T19:15:41.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "88 ms",
+      "memory": "54.1 MB",
+      "submissionTime": "2026-07-30T04:39:26.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

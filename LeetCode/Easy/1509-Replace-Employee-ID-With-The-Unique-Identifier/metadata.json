@@ -1,0 +1,19 @@
+{
+  "id": 1509,
+  "title": "Replace Employee ID With The Unique Identifier",
+  "titleSlug": "replace-employee-id-with-the-unique-identifier",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "acRate": 83.69637364106508,
+  "submissions": [
+    {
+      "language": "mysql",
+      "runtime": "1367 ms",
+      "memory": "0.0B",
+      "submissionTime": "2026-07-01T08:40:27.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

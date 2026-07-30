@@ -1,0 +1,21 @@
+{
+  "id": 1234,
+  "title": "Number of Paths with Max Score",
+  "titleSlug": "number-of-paths-with-max-score",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "acRate": 63.78731921851654,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "5 ms",
+      "memory": "11.3 MB",
+      "submissionTime": "2026-07-05T19:25:48.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

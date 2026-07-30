@@ -1,0 +1,23 @@
+{
+  "id": 3813,
+  "title": "Smallest Palindromic Rearrangement II",
+  "titleSlug": "smallest-palindromic-rearrangement-ii",
+  "difficulty": "Hard",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String",
+    "Combinatorics",
+    "Counting"
+  ],
+  "acRate": 44.22080277386712,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "16 ms",
+      "memory": "16.9 MB",
+      "submissionTime": "2026-07-29T18:28:06.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

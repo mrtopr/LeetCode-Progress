@@ -1,0 +1,22 @@
+{
+  "id": 3608,
+  "title": "Find the Number of Subsequences With Equal GCD",
+  "titleSlug": "find-the-number-of-subsequences-with-equal-gcd",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Number Theory"
+  ],
+  "acRate": 66.6306061520915,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "1185 ms",
+      "memory": "385.8 MB",
+      "submissionTime": "2026-07-14T18:12:11.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

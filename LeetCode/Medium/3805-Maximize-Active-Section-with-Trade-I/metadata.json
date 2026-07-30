@@ -1,0 +1,20 @@
+{
+  "id": 3805,
+  "title": "Maximize Active Section with Trade I",
+  "titleSlug": "maximize-active-section-with-trade-i",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Enumeration"
+  ],
+  "acRate": 60.914006532539176,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "152 ms",
+      "memory": "175.9 MB",
+      "submissionTime": "2026-07-21T19:18:51.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

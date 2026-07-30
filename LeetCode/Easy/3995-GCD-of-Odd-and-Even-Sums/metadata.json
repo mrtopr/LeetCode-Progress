@@ -1,0 +1,20 @@
+{
+  "id": 3995,
+  "title": "GCD of Odd and Even Sums",
+  "titleSlug": "gcd-of-odd-and-even-sums",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Number Theory"
+  ],
+  "acRate": 89.84142173188359,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8.6 MB",
+      "submissionTime": "2026-07-15T14:38:26.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

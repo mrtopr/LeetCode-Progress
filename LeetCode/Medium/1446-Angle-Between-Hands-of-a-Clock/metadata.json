@@ -1,0 +1,19 @@
+{
+  "id": 1446,
+  "title": "Angle Between Hands of a Clock",
+  "titleSlug": "angle-between-hands-of-a-clock",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "acRate": 69.79844159268923,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "0 ms",
+      "memory": "8 MB",
+      "submissionTime": "2026-06-18T02:45:25.000Z",
+      "status": "Accepted"
+    }
+  ]
+}

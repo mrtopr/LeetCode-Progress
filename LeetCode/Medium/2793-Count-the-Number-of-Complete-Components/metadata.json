@@ -1,0 +1,29 @@
+{
+  "id": 2793,
+  "title": "Count the Number of Complete Components",
+  "titleSlug": "count-the-number-of-complete-components",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "acRate": 80.79215221119784,
+  "submissions": [
+    {
+      "language": "cpp",
+      "runtime": "36 ms",
+      "memory": "127.9 MB",
+      "submissionTime": "2026-07-11T11:20:49.000Z",
+      "status": "Accepted"
+    },
+    {
+      "language": "cpp",
+      "runtime": "40 ms",
+      "memory": "127.9 MB",
+      "submissionTime": "2026-07-22T13:57:41.000Z",
+      "status": "Accepted"
+    }
+  ]
+}
